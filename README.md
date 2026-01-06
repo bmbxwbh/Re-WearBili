@@ -7,7 +7,7 @@
 
 ## :watch:配置要求
 
-- 最低内存(RAM)：512M
+- 最低内存(RAM)：512
 - 最低储存(ROM)：2G
 - 最低兼容的系统：Android 5.0 (API Level 21 Lolipop)
 
